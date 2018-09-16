@@ -1,0 +1,31 @@
+_repo: The-Poetry-of-Science-or-Studies-of-the-Physical-Phenomena-of-Nature_51897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hunt, Robert
+    birthdate: 1807
+    deathdate: 1887
+    gutenberg_agent_id: '46598'
+    url: http://www.gutenberg.org/2009/agents/46598
+description: ''
+gutenberg_issued: '2016-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51897'
+  lccn: '07034754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physics'
+- !lcc 'Q'
+- !lcsh 'Science'
+- GITenberg
+tableOfContents: 'General conditions of matter -- Motion -- Gravitation -- Molecular
+  forces -- Crystallogenic forces -- Heat: solar and terrestrial -- Light -- Actinism:
+  chemical radiations -- Electricity -- Magnetism -- Chemical forces -- Chemical phenomena
+  -- Time: geological phenomena -- Phenomena of vegetable life -- Phenomena of animal
+  life -- General conclusions.'
+title: The Poetry of Science; or, Studies of the Physical Phenomena of Nature
+url: http://www.gutenberg.org/ebooks/51897
